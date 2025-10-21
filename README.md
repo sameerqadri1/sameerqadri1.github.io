@@ -11,7 +11,7 @@
 - 🚀 Delivered **70 + websites** (20 international + 50 local).  
 - 🌱 Currently exploring **PostgreSQL, Express API design, and LLM integrations**.  
 - 🎓 B.S. Software Engineering (3.20 GPA in AI FYP — 82 % CNN accuracy).  
-- 📫 Reach me at **sameerqadri.dev@gmail.com**  
+- 📫 Reach me at **sameerkhan8701@gmail.com**  
 
 ---
 
