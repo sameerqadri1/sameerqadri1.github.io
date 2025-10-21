@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/sameerqadri1/banner.png" alt="Sameer Qadri Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm <b>Sameer Qadri</b></h1>
 <h3 align="center">💻 Software Engineer | Web Developer | AI & Automation Enthusiast</h3>
@@ -78,8 +75,8 @@
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/sameerqadri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sameerqadri.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sameerkhan8701@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<!--  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a> -->
 </p>
 
 ---
